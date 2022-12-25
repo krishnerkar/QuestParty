@@ -1,0 +1,14 @@
+ <svg className = "mt-1" width="95" height="60" viewBox="0 0 75 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="75" height="40" rx="10" fill="url(#paint0_linear_119_226)"/>
+                <path d="M24.124 12V21.086L17.48 12H10V27.4H15.72V18.314L22.364 27.4H29.844V12H24.124Z" fill="white"/>
+                <path d="M47.0124 16.84V12H30.7324V27.4H36.4524V23.33H45.6924V18.49H36.4524V16.84H47.0124Z" fill="white"/>
+                <path d="M66.3621 12H47.4421V16.84H54.0421V27.4H59.7621V16.84H66.3621V12Z" fill="white"/>
+                <defs>
+                <linearGradient id="paint0_linear_119_226" x1="0" y1="0" x2="63.9344" y2="53.2787" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#06C1FF"/>
+                <stop offset="0.338542" stop-color="#4672FF"/>
+                <stop offset="0.666667" stop-color="#FF00F3"/>
+                <stop offset="1" stop-color="#FF2359"/>
+                </linearGradient>
+                </defs>
+            </svg>
